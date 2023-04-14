@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tips</string>
+    <string name="otimo_servico">Ótimo (18%)</string>
+    <string name="bom_servico">Bom (15%)</string>
+    <string name="regular_servico">Regular (12%)</string>
+    <string name="arrendondar">Arrendondar?</string>
+    <string name="calcular">Calcular</string>
+    <string name="quantia">Quantia: %s</string>
+    <string name="informe_valor">Informe o valor</string>
+    <string name="como_foi_servico">Como foi o serviço?</string>
+</resources>
